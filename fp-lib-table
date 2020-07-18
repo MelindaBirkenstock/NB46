@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Type-C)(type KiCad)(uri /hdd/PCB/Type-C.pretty-master)(options "")(descr ""))
+)

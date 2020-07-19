@@ -1,2 +1,2 @@
-# NB46
- NB46 Mechanical keyboard, supports MX
+# NB47
+ NB47 Mechanical keyboard, supports MX
